@@ -1,3 +1,8 @@
+Page
+https://kenzor1979.github.io/todo_react_vite_deploy/
+
+July 2023
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
