@@ -1,0 +1,17 @@
+curso passo a passo
+https://www.youtube.com/watch?v=YVEVrigByKY&t=352s
+
+para fazer o deploy
+https://www.youtube.com/watch?v=-weTjP3pYxs
+
+
+npm create vite@latest
+cd .\todo\
+npm install
+npm run dev
+
+
+atalho para criar estrutura no react (plug in code snippet)
+rafce
+
+
